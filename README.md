@@ -1,6 +1,7 @@
 # [Codecov][0] Java Example
 
-[![build](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml)
+[![build](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml/badge.svg)](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/glozanoa/jacoco-example/branch/main/graph/badge.svg?token=V3JO7NOO72)](https://codecov.io/gh/glozanoa/jacoco-example)
 
 ## Guide
 
