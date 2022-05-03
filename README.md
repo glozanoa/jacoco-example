@@ -1,8 +1,6 @@
 # [Codecov][0] Java Example
 
-[![Build Status](https://travis-ci.org/codecov/example-java.svg?branch=master)](https://travis-ci.org/codecov/example-java)
-[![codecov](https://codecov.io/gh/codecov/example-java/branch/master/graph/badge.svg)](https://codecov.io/gh/codecov/example-java)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java?ref=badge_shield)
+[![build](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/glozanoa/jacoco-example/actions/workflows/build.yml)
 
 ## Guide
 
