@@ -13,6 +13,9 @@ jobs:
       - uses: gradle/gradle-build-action@v2
       - uses: actions/checkout@v3
       
+      - name: Build
+        run: ./gradlew build
+      
       - name: Coverage
         run: ./gradlew jacocoTestReport
       
