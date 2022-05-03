@@ -1,4 +1,4 @@
-name: Building-Workflow
+name: build
 on: [push]
 jobs:
   buid:
