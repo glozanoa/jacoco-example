@@ -15,6 +15,12 @@ repositories {
     }
 }
 
+jacocoTestReport {
+    reports {
+        xml.required = true
+    }
+}
+
 jar {
     manifest {
         attributes 'Main-Class': 'org.jacoco.examples.maven.java.HelloWorld'
